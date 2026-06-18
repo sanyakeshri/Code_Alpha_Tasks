@@ -1,10 +1,10 @@
 📘 CodeAlpha Java Projects
 
-This repository contains two beginner-to-intermediate level Java console-based projects developed using Object-Oriented Programming (OOP) concepts.
+This repository contains two Java console-based projects developed using Object-Oriented Programming (OOP) concepts.
 
-📂 Projects Included
+📂 Projects Included:
+
 1️⃣ Student Grade Tracker 🎓
-
 A Java application to manage student marks and generate performance reports.
 
 ✨ Features:
@@ -15,8 +15,9 @@ Average marks
 Highest marks
 Lowest marks
 Display full student report
-2️⃣ Stock Trading Platform 📊
 
+
+2️⃣ Stock Trading Platform 📊
 A simulation-based stock trading system built using Java OOP concepts.
 
 ✨ Features:
@@ -32,6 +33,8 @@ ArrayList
 HashMap
 Scanner (User Input)
 Loops & Conditions
+
+
 📁 Project Structure
 codealpha_tasks/
 │
@@ -41,13 +44,15 @@ codealpha_tasks/
 │   └── README.md
 │
 └── StockTradingPlatform/
-├── src/
-│   ├── Stock.java
-│   ├── User.java
-│   ├── Transaction.java
-│   ├── Portfolio.java
-│   └── StockTradingApp.java
-└── README.md
+    ├── src/
+    │   ├── Stock.java
+    │   ├── User.java
+    │   ├── Transaction.java
+    │   ├── Portfolio.java
+    │   └── StockTradingApp.java
+    └── README.md
+
+    
 🚀 How to Run
 ▶ Step 1: Open in IntelliJ IDEA
 
@@ -80,6 +85,8 @@ Database integration (MySQL)
 File handling for data persistence
 Real-time stock API integration
 Login system for users
-👨‍💻 Author
+
+
+👨‍💻 Author:Sanya Keshri
 
 Created as part of CodeAlpha internship tasks to practice Java OOP and problem-solving skills.
